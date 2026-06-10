@@ -1,0 +1,16 @@
+#--extra-index-url https://download.pytorch.org/whl/cu126
+--extra-index-url https://download.pytorch.org/whl/cpu
+
+PyYAML
+lightning
+torch 
+torchvision
+wandb
+monai
+nibabel
+scikit-learn
+scikit-image
+PyWavelets
+python-dotenv
+rich
+psutil
